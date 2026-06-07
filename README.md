@@ -1,1 +1,1 @@
-https://github.com/julijasidorak22-prog/first-sprint
+https://github.com/julijasidorak22-prog/ono-tebe-nado-fd/tree/main
