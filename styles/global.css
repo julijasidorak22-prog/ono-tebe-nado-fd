@@ -36,3 +36,10 @@ img {
 button {
   font: inherit;
 }
+
+.lots,
+.about,
+.footer {
+  padding-left: 50px;
+  padding-right: 50px;
+}
